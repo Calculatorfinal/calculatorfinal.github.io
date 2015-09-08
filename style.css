@@ -1,0 +1,13 @@
+form{
+  background:#62B6FF;
+}
+
+input[type="button"]{
+ background:#00ff00;
+font-family: 'Montserrat', sans-serif;
+}
+
+input[name="output"]{
+ font-family: 'Montserrat', sans-serif;   
+}
+
