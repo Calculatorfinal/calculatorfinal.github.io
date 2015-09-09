@@ -42,9 +42,19 @@ var answer = document.calc.output.value
     function runpercent()
     {document.calc.output.value += "%";}
     
-    //Special functions-- COULD NOT FIGURE THESE DAMN THINGS OUT!!!!! >_<
+    //Special functions-- COULD NOT FIGURE THESE DAMN THINGS OUT!!!!! >_< maybe...
+
+     
+    function runcleara()
+    {document.calc.output.value = 1/document.calc.output.value;}
+
+    function runclearb()
+    {document.calc.output.value = document.calc.output.value*document.calc.output.value;}
+        
+
     
-   
+           
+        
     
     
   
